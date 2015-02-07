@@ -1,0 +1,3 @@
+[submodule "site1dir"]
+	path = site1dir
+	url = git://github.com/WordPress/WordPress.git
